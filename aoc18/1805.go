@@ -6,9 +6,9 @@ import (
 	"slices"
 	"sync"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/ds"
-	"github.com/roidaradal/fn/list"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/ds"
+	"github.com/zeroibot/fn/list"
 )
 
 func Day05() Solution {

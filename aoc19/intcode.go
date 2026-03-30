@@ -4,7 +4,7 @@ import (
 	"slices"
 	"strconv"
 
-	"github.com/roidaradal/fn/number"
+	"github.com/zeroibot/fn/number"
 )
 
 func commandParts(number int) (string, string) {

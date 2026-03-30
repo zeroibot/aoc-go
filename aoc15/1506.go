@@ -3,9 +3,9 @@ package aoc15
 import (
 	"strings"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/list"
-	"github.com/roidaradal/fn/str"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/list"
+	"github.com/zeroibot/fn/str"
 )
 
 func Day06() Solution {

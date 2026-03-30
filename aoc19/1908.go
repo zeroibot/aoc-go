@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"slices"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/dict"
-	"github.com/roidaradal/fn/list"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/dict"
+	"github.com/zeroibot/fn/list"
 )
 
 func Day08() Solution {

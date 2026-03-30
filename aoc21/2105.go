@@ -3,10 +3,10 @@ package aoc21
 import (
 	"slices"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/number"
-	"github.com/roidaradal/fn/str"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/number"
+	"github.com/zeroibot/fn/str"
 )
 
 type Line = [2]Coords

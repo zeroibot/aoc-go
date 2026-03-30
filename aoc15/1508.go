@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	. "github.com/roidaradal/aoc-go/aoc"
+	. "github.com/zeroibot/aoc-go/aoc"
 )
 
 func Day08() Solution {

@@ -1,7 +1,7 @@
 package aoc16
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
+	. "github.com/zeroibot/aoc-go/aoc"
 )
 
 func Day02() Solution {

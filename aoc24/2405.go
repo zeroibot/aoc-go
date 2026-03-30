@@ -3,11 +3,11 @@ package aoc24
 import (
 	"slices"
 
-	. "github.com/roidaradal/aoc-go/aoc"
+	. "github.com/zeroibot/aoc-go/aoc"
 
-	"github.com/roidaradal/fn/ds"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/list"
+	"github.com/zeroibot/fn/ds"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/list"
 )
 
 type Rules = map[int]*ds.Set[int]

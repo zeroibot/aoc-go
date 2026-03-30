@@ -3,10 +3,10 @@ package aoc16
 import (
 	"fmt"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/number"
-	"github.com/roidaradal/fn/str"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/number"
+	"github.com/zeroibot/fn/str"
 )
 
 func Day08() Solution {

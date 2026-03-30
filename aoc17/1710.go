@@ -3,8 +3,8 @@ package aoc17
 import (
 	"strings"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/list"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/list"
 )
 
 func Day10() Solution {

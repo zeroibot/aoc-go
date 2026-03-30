@@ -1,8 +1,8 @@
 package aoc22
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/ds"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/ds"
 )
 
 func Day03() Solution {

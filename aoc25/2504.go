@@ -1,9 +1,9 @@
 package aoc25
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/check"
-	"github.com/roidaradal/fn/list"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/check"
+	"github.com/zeroibot/fn/list"
 )
 
 func Day04() Solution {

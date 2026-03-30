@@ -1,6 +1,6 @@
 package aoc19
 
-import . "github.com/roidaradal/aoc-go/aoc"
+import . "github.com/zeroibot/aoc-go/aoc"
 
 func Day02() Solution {
 	// Part 1

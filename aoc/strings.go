@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/roidaradal/fn/list"
+	"github.com/zeroibot/fn/list"
 )
 
 func MD5Hash(word string) string {

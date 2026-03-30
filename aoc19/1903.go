@@ -3,10 +3,10 @@ package aoc19
 import (
 	"slices"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/dict"
-	"github.com/roidaradal/fn/list"
-	"github.com/roidaradal/fn/str"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/dict"
+	"github.com/zeroibot/fn/list"
+	"github.com/zeroibot/fn/str"
 )
 
 func Day03() Solution {

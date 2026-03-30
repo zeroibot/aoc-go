@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/roidaradal/fn/io"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/str"
+	"github.com/zeroibot/fn/io"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/str"
 )
 
 func dataPath(year int, day int, full bool) string {

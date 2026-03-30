@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/roidaradal/aoc-go/aoc"
+	"github.com/zeroibot/aoc-go/aoc"
 )
 
 const knotHashLimit int = 256

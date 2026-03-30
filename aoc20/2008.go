@@ -1,12 +1,12 @@
 package aoc20
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/ds"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/list"
-	"github.com/roidaradal/fn/number"
-	"github.com/roidaradal/fn/str"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/ds"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/list"
+	"github.com/zeroibot/fn/number"
+	"github.com/zeroibot/fn/str"
 )
 
 func Day08() Solution {

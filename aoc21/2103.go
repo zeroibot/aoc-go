@@ -1,10 +1,10 @@
 package aoc21
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/list"
-	"github.com/roidaradal/fn/number"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/list"
+	"github.com/zeroibot/fn/number"
 )
 
 func Day03() Solution {

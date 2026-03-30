@@ -1,9 +1,9 @@
 package aoc
 
 import (
-	"github.com/roidaradal/fn/list"
-	"github.com/roidaradal/fn/number"
-	"github.com/roidaradal/fn/str"
+	"github.com/zeroibot/fn/list"
+	"github.com/zeroibot/fn/number"
+	"github.com/zeroibot/fn/str"
 )
 
 func ToIntList(line string, sep string) []int {

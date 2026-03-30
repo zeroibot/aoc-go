@@ -1,7 +1,7 @@
 package aoc24
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
+	. "github.com/zeroibot/aoc-go/aoc"
 )
 
 func Day09() Solution {

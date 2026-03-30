@@ -3,8 +3,8 @@ package aoc18
 import (
 	"slices"
 
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/dict"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/dict"
 )
 
 func Day02() Solution {

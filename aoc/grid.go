@@ -3,8 +3,8 @@ package aoc
 import (
 	"math"
 
-	"github.com/roidaradal/fn/list"
-	"github.com/roidaradal/fn/number"
+	"github.com/zeroibot/fn/list"
+	"github.com/zeroibot/fn/number"
 )
 
 var (

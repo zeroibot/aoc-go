@@ -3,7 +3,7 @@ package aoc23
 import (
 	"strings"
 
-	. "github.com/roidaradal/aoc-go/aoc"
+	. "github.com/zeroibot/aoc-go/aoc"
 )
 
 func Day01() Solution {

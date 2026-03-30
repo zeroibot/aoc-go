@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	. "github.com/roidaradal/aoc-go/aoc"
+	. "github.com/zeroibot/aoc-go/aoc"
 )
 
 func Day10() Solution {

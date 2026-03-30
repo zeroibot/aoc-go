@@ -1,8 +1,8 @@
 package aoc15
 
 import (
-	. "github.com/roidaradal/aoc-go/aoc"
-	"github.com/roidaradal/fn/lang"
+	. "github.com/zeroibot/aoc-go/aoc"
+	"github.com/zeroibot/fn/lang"
 )
 
 func Day01() Solution {
